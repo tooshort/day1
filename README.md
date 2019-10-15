@@ -1,2 +1,2 @@
 # day1
-start the countdown
+start the countdown!
